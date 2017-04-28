@@ -1,2 +1,5 @@
 keras
 tensorflow
+cmappertools
+fastcluster
+mapper
